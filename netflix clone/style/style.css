@@ -19,9 +19,7 @@ body{
 .footer a, .hd{
     color: rgb(147, 146, 146);
 }
-/* .mytext{
-    color: red;
-} */
+
 .text{
     font-size: 3rem;
     fill: #8B0000;
@@ -29,8 +27,6 @@ body{
 #curve{
     fill: transparent;
 }
-
-
 
  .netflix-logo {
    font-family: 'Arial', sans-serif; 
@@ -42,11 +38,8 @@ body{
 -2px 2px 0 rgba(0, 0, 0, 0.5);
      letter-spacing: -1px;
      transform-origin:center bottom ;
-     transform: rotateY(5deg);
-
-   
+     transform: rotateY(5deg); 
     } 
-    
 .myred{
     background-color: #dd0505;
 }
@@ -64,8 +57,4 @@ body{
     cursor: pointer;
 }
    
-  /* @media(max-height:768px){
-    .box1container{
-       height: 525px; 
-  }
-  }           */
+  
